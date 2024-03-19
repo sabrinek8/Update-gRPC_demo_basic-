@@ -1,0 +1,1 @@
+la classe HelloWorldServer est modifiée pour utiliser les informations de prénom, nom et CIN de la demande HelloRequest afin de générer des messages de salutation personnalisés dans les méthodes sayHello() et sayHelloAgain().
